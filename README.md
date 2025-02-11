@@ -46,6 +46,10 @@ python <arquivo_a_interpretar>
 ## Problemas 
 | Problema | Código | Dificuldade | Responsável |
 | -- | -- | -- | -- |
-|    |    |    |    |
+| [Consecutive Subsequence](https://codeforces.com/contest/977/problem/F) | [977F](./977F.cpp) | Difícil | Caio | 
+| [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | [1418C](./1418C.cpp) | Difícil | Caio |
 
 ## Vídeos de explicação das Soluções
+
+[Vídeo para o Consecutive Subsequence](https://youtu.be/FXRhsxFAilE)<br>
+[Vídeo para o Mortal Kombat Tower](https://youtu.be/gGWyEHaPcz4)<br>
