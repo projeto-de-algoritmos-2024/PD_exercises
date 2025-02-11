@@ -1,6 +1,6 @@
 # Programação dinâmica
 
-**Número da Lista**: 35<br>
+**Número da Lista**: 16<br>
 **Conteúdo da Disciplina**: Programação dinâmica (Dynamic programming)
 
 ## Alunos
