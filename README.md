@@ -20,7 +20,7 @@ Para utilizar e testar os programas, primeiro é necessário ter um compilador d
 Após instalar o compilador em sua máquina, clone o repositório utilizando:
 
 ``` bash
-git clone https://github.com/projeto-de-algoritmos-2024/Greed_PdCExercises
+git clone https://github.com/projeto-de-algoritmos-2024/PD_exercises
 ```
 
 ## Uso 
