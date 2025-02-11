@@ -48,8 +48,10 @@ python <arquivo_a_interpretar>
 | -- | -- | -- | -- |
 | [Consecutive Subsequence](https://codeforces.com/contest/977/problem/F) | [977F](./977F.cpp) | Difícil | Caio | 
 | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | [1418C](./1418C.cpp) | Difícil | Caio |
+| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water?envType=problem-list-v2&envId=dynamic-programming) | 43 | Difícil | Arthur |
 
 ## Vídeos de explicação das Soluções
 
 [Vídeo para o Consecutive Subsequence](https://youtu.be/FXRhsxFAilE)<br>
 [Vídeo para o Mortal Kombat Tower](https://youtu.be/gGWyEHaPcz4)<br>
+[Vídeo para o Trapping Rain Water](https://youtu.be/sti1aZhI1CM)
